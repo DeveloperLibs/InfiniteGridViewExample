@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InfiniteGridView</string>
+    <string name="storage_permission">Please provide phone storage access permission</string>
+</resources>
